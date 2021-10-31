@@ -1,4 +1,4 @@
-👋 Hi, I’m @pavlosp
+## 👋 Hi, I’m @pavlosp
 
 👀 I’m interested in literally everything: understanding how things work, from the physical domain (physics, ...) to technology and engineering
 
@@ -8,4 +8,4 @@
 - mobile app development (Flutter and Web)
 - Quantum physics and quantum computing (Qisit)
 
-📫 How to reach me: check out my site pavlosp.com
+📫 How to reach me: check out my site [pavlosp.com](https://pavlosp.com/)
