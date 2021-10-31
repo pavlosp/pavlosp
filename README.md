@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @pavlosp
+- 👀 I’m interested in literally everything: understanding how things work, from the physical domain (physics, ...) to technology and engineering
+- 🌱 I’m currently experimenting with embedded development and electronice (ESP32 mini projects), embedded machine learning (TFLite for microcontrollers), mobile app development (Flutter and Web), quantum physics and quantum computing
+- 📫 How to reach me: check out my site pavlosp.com
