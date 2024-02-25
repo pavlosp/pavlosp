@@ -7,4 +7,6 @@
 - Embedded machine learning (TFLite for microcontrollers)
 - Mobile / Web app development
 
+Most of my projects are currently private, given that they are very early work-in-progress projects with partial functionality... the intent is to publish them when more complete.
+
 📫 How to reach me: check out my site [pavlosp.com](https://pavlosp.com/)
